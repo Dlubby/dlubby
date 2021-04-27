@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning php
 - 📫 You can reach me via discord at Danky#3000
 
-https://discord.c99.nl/widget/theme-2/803782872476418048.png
+<img src="https://discord.c99.nl/widget/theme-2/803782872476418048.png"
