@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=Dlubby&color=blue" alt="fax" width="" height="">
+
 - 👋 Hi, I’m @Dlubby
 - 👀 I’m interested in coding/scripting
 - 🌱 I’m currently learning php
